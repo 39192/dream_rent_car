@@ -88,18 +88,18 @@
                         <th>현장지불</th>
                     </tr>
                     <tr>
-                        <td id="compact-basic-reservation">$10.0</td>
-                        <td id="compact-basic-office">$45.0</td>
-                        <td id="compact-zdc-reservation">$10.0</td>
-                        <td id="compact-zdc-office">$55.0</td>
+                        <td id="compact-basic-reservation">$5.0</td>
+                        <td id="compact-basic-office">$40.0</td>
+                        <td id="compact-zdc-reservation">$5.0</td>
+                        <td id="compact-zdc-office">$50.0</td>
                     </tr>
                     </tbody>
                 </table>
                 <br>
 
-                <!-- 미드사이즈2 (5인) -->
+                <!-- 미드사이즈 (5인) -->
                 <hr>
-                <h4 class="title-car">미드사이즈2 (5인)&nbsp;&nbsp;<small>마즈다3, 현대 엘란트라</small></h4>
+                <h4 class="title-car">미드사이즈 (5인)&nbsp;&nbsp;<small>마즈다3, 현대 엘란트라</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
