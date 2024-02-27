@@ -51,10 +51,10 @@
                     * 견적계산기는 렌트 비용 참고용입니다.
                 </div>
                 <div class="info-sentence">
-                    * 자세한 내용은 <b><a href="https://cafe.naver.com/guamfree/335157" style="color: rgb(107, 144, 220)" target="_blank"><u>드림렌트카 예약안내</u></a></b> 에서 확인해주세요.
+                    * 자세한 내용은 <b><a href="https://cafe.naver.com/guamfree/2593378" style="color: rgb(107, 144, 220)" target="_blank"><u>드림렌트카 예약안내</u></a></b> 에서 확인해주세요.
                 </div>
                 <div class="info-sentence">
-                    * 렌트기간 30일 이상의 장기렌트일 경우 메일로 별도 문의 바랍니다. &lt; <b><a href="mailto:tillpark3@naver.com" style="color: rgb(107, 144, 220)" target="_blank"><u>tillpark3@naver.com</u></a></b> &gt;
+                    * 렌트기간 7일, 30일 이상의 장기 렌트일 경우 메일로 별도 문의 바랍니다. &lt; <b><a href="mailto:tillpark3@naver.com" style="color: rgb(107, 144, 220)" target="_blank"><u>tillpark3@naver.com</u></a></b> &gt;
                 </div>
 
                 <br>
@@ -88,10 +88,10 @@
                         <th>현장지불</th>
                     </tr>
                     <tr>
-                        <td id="compact-basic-reservation">$5.0</td>
-                        <td id="compact-basic-office">$40.0</td>
-                        <td id="compact-zdc-reservation">$5.0</td>
-                        <td id="compact-zdc-office">$50.0</td>
+                        <td id="compact-basic-reservation">$10.0</td>
+                        <td id="compact-basic-office">$45.0</td>
+                        <td id="compact-zdc-reservation">$10.0</td>
+                        <td id="compact-zdc-office">$55.0</td>
                     </tr>
                     </tbody>
                 </table>
@@ -99,7 +99,7 @@
 
                 <!-- 미드사이즈 (5인) -->
                 <hr>
-                <h4 class="title-car">미드사이즈 (5인)&nbsp;&nbsp;<small>마즈다3, 현대 엘란트라</small></h4>
+                <h4 class="title-car">미드사이즈 (5인)&nbsp;&nbsp;<small>마즈다3, 엘란트라</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
