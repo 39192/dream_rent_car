@@ -50,15 +50,17 @@
                 <br>
 
                 <div class="info-sentence">
-                    * 견적계산기는 렌트 비용 참고용입니다.
-                </div>
-                <div class="info-sentence">
-                    * 자세한 내용은 <b><a href="https://cafe.naver.com/guamfree/2593378"
+                    * 견적계산기는 렌트 비용 참고용입니다. 자세한 내용은 <b><a href="https://cafe.naver.com/guamfree/2593378"
                                     style="color: rgb(107, 144, 220)" target="_blank"><u>드림렌트카
                     예약안내</u></a></b> 에서 확인해주세요.
                 </div>
                 <div class="info-sentence">
-                    * 렌트기간 7일, 30일 이상의 장기 렌트일 경우 메일로 별도 문의 바랍니다. &lt; <b><a
+                    * 장기 할인안내 <b><a href="https://cafe.naver.com/guamfree/2410415"
+                                    style="color: rgb(107, 144, 220)" target="_blank"><u>7일</u></a></b> <b><a href="https://cafe.naver.com/guamfree/2372137"
+                                    style="color: rgb(107, 144, 220)" target="_blank"><u>30</u></a></b>
+                </div>
+                <div class="info-sentence">
+                    * 추가 문의는 메일로 송부바랍니다. &lt; <b><a
                     href="mailto:tillpark3@naver.com" style="color: rgb(107, 144, 220)"
                     target="_blank"><u>tillpark3@naver.com</u></a></b> &gt;
                 </div>
