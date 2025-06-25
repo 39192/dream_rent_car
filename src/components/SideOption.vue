@@ -104,6 +104,7 @@
                     </tbody>
                 </table>
                 <br>
+                <div class="info-sentence" id="compact-discount-message" style="display: none; color: red;"></div>
 
                 <!-- 미드사이즈 (5인) -->
                 <hr>
@@ -140,6 +141,7 @@
                     </tbody>
                 </table>
                 <br>
+                <div class="info-sentence" id="midSize2-discount-message" style="display: none; color: red;"></div>
 
                 <!-- 풀사이즈 (5인) -->
                 <hr>
@@ -176,6 +178,7 @@
                     </tbody>
                 </table>
                 <br>
+                <div class="info-sentence" id="fullSize-discount-message" style="display: none; color: red;"></div>
 
                 <!-- SUV (5인) -->
                 <hr>
@@ -212,6 +215,7 @@
                     </tbody>
                 </table>
                 <br>
+                <div class="info-sentence" id="suv-discount-message" style="display: none; color: red;"></div>
 
                 <!-- 컨버터블 -->
                 <hr>
@@ -248,6 +252,7 @@
                     </tbody>
                 </table>
                 <br>
+                <div class="info-sentence" id="convertible-discount-message" style="display: none; color: red;"></div>
 
                 <!-- 7인승 밴 (5인) -->
                 <hr>
@@ -284,6 +289,7 @@
                     </tbody>
                 </table>
                 <br>
+                <div class="info-sentence" id="sevenVan-discount-message" style="display: none; color: red;"></div>
 
                 <!-- 8인승 밴 (5인) -->
                 <hr>
@@ -320,6 +326,7 @@
                     </tbody>
                 </table>
                 <br>
+                <div class="info-sentence" id="eightVan-discount-message" style="display: none; color: red;"></div>
 
                 <br><br><br>
 
