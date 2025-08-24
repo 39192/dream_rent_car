@@ -254,46 +254,10 @@
                 <br>
                 <div class="info-sentence" id="convertible-discount-message" style="display: none; color: red;"></div>
 
-                <!-- 7인승 밴 (5인) -->
-                <hr>
-                <h4 class="title-car">7인승 밴&nbsp;&nbsp;<small>기아 세도나</small></h4>
-                <h6 class="title-rate">카페요금</h6>
-                <table class="table table-bordered">
-                    <thead>
-                    <tr>
-                        <th style="width:50%" colspan="2">기본요금</th>
-                        <th style="width:50%" colspan="2">기본요금 + 추가보험(ZDC)</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <td colspan="2">
-                            <div id="sevenVan-basic-below-three-days">$120.0</div>
-                        </td>
-                        <td id="sevenVan-zdc-td" colspan="2">
-                            <div id="sevenVan-zdc-below-three-days">$140.0</div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <th>예약금액</th>
-                        <th>현장지불</th>
-                        <th>예약금액</th>
-                        <th>현장지불</th>
-                    </tr>
-                    <tr>
-                        <td id="sevenVan-basic-reservation">$10.0</td>
-                        <td id="sevenVan-basic-office">$110.0</td>
-                        <td id="sevenVan-zdc-reservation">$10.0</td>
-                        <td id="sevenVan-zdc-office">$130.0</td>
-                    </tr>
-                    </tbody>
-                </table>
-                <br>
-                <div class="info-sentence" id="sevenVan-discount-message" style="display: none; color: red;"></div>
-
+               
                 <!-- 8인승 밴 (5인) -->
                 <hr>
-                <h4 class="title-car">8인승 밴&nbsp;&nbsp;<small>오딧세이, 시에나</small></h4>
+                <h4 class="title-car">7/8인승 밴&nbsp;&nbsp;<small>오딧세이, 시에나</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
