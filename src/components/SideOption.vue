@@ -69,7 +69,7 @@
 
                 <!-- 컴팩트 (5인) -->
                 <hr>
-                <h4 class="title-car">컴팩트 (5인)&nbsp;&nbsp;<small>리오, 미라지</small></h4>
+                <h4 class="title-car">컴팩트 (5인)&nbsp;&nbsp;<small>미라지</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
