@@ -69,7 +69,7 @@
 
                 <!-- 컴팩트 (5인) -->
                 <hr>
-                <h4 class="title-car">컴팩트 (4인)&nbsp;&nbsp;<small>미라지,리오 랜덤배차 (국산차 엑센트급)</small></h4>
+                <h4 class="title-car">컴팩트 (4인)&nbsp;&nbsp;<small>미라지, 리오 랜덤배차 (국산차 엑센트급)</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
