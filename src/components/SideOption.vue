@@ -69,7 +69,7 @@
 
                 <!-- 컴팩트 (5인) -->
                 <hr>
-                <h4 class="title-car">컴팩트 (5인)&nbsp;&nbsp;<small>미라지</small></h4>
+                <h4 class="title-car">컴팩트 (4인)&nbsp;&nbsp;<small>미라지,리오 랜덤배차 (국산차 엑센트급)</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
@@ -108,7 +108,7 @@
 
                 <!-- 미드사이즈 (5인) -->
                 <hr>
-                <h4 class="title-car">미드사이즈 (5인)&nbsp;&nbsp;<small>마즈다3, 엘란트라</small></h4>
+                <h4 class="title-car">미드사이즈 (5인)&nbsp;&nbsp;<small>엘란트라, 소울, 포르테, 코나 랜덤배차 (국산차 아반떼급) </small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
@@ -145,7 +145,7 @@
 
                 <!-- 풀사이즈 (5인) -->
                 <hr>
-                <h4 class="title-car">풀사이즈 (5인)&nbsp;&nbsp;<small>마즈다6</small></h4>
+                <h4 class="title-car">풀사이즈 (5인)&nbsp;&nbsp;<small>어코드 (국산차 그랜져급)</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
@@ -182,7 +182,7 @@
 
                 <!-- SUV (5인) -->
                 <hr>
-                <h4 class="title-car">SUV (5인)&nbsp;&nbsp;<small>마즈다 CX5</small></h4>
+                <h4 class="title-car">SUV (5인)&nbsp;&nbsp;<small>마즈다CX5, 투싼, 스포티지 랜덤배차 (국산차 투싼급)</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
@@ -257,7 +257,7 @@
                
                 <!-- 8인승 밴 (5인) -->
                 <hr>
-                <h4 class="title-car">7/8인승 밴&nbsp;&nbsp;<small>오딧세이, 시에나</small></h4>
+                <h4 class="title-car">7/8인승 밴&nbsp;&nbsp;<small>펠리세이드, 시에나, 카니발, 텔룰라이드 랜덤배차 (국산차 카니발급)</small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
