@@ -108,7 +108,7 @@
 
                 <!-- 미드사이즈 (5인) -->
                 <hr>
-                <h4 class="title-car">미드사이즈 (5인)&nbsp;&nbsp;<small>엘란트라, 소울, 포르테, 코나 랜덤배차 (국산차 아반떼급) </small></h4>
+                <h4 class="title-car">미드사이즈 (5인)&nbsp;&nbsp;<small>베뉴, 엘란트라, 소울, 포르테, 코나 랜덤배차 (국산차 아반떼급) </small></h4>
                 <h6 class="title-rate">카페요금</h6>
                 <table class="table table-bordered">
                     <thead>
